@@ -889,7 +889,7 @@ section {
 }
 
 section {
-	background: #ffffff;
+	background: none;
 }
 
 section.no-bg,
@@ -959,7 +959,7 @@ section.no-bg,
 /* ================================================== */
 
 footer {
-	background: #f55291;
+	background: #00CACA	;
 	color: #fff;
 	padding: 35px 0 15px 0;
 }
@@ -9843,11 +9843,12 @@ a.read_more i {
 	margin: 5px;
 	padding: 20px;
 	background: #ffffff;
+	opacity: 0.6
 }
 
 .box-highlight .content,
 .box-highlight .content strong {
-	color: #111111;
+	color: #000000;
 }
 
 .box-highlight .content.v1 p {
